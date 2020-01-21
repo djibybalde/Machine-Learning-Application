@@ -1,5 +1,6 @@
 # FIFA-2019
 ## Predicting the Market Value of FIFA football players Machine Learning technics
+# <center>![FIFA 2019](fifa_image.jpg)
 
 The "fifa19" dataset used here is downloaded from [Kaggle](https://www.kaggle.com/karangadiya/fifa19)
 
