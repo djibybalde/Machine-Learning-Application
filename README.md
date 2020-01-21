@@ -1,7 +1,7 @@
 # FIFA-2019
 ## Predicting the Market Value of FIFA football players Machine Learning technics
 
-The database used here is downloaded from [Kaggle](https://www.kaggle.com/karangadiya/fifa19)
+The "fifa19" dataset used here is downloaded from [Kaggle](https://www.kaggle.com/karangadiya/fifa19)
 
 ### Contents  
 #### I. Data exploration  
@@ -28,6 +28,6 @@ The database used here is downloaded from [Kaggle](https://www.kaggle.com/karang
 #### V. Unsupervised Learning   
     1. K-Means Clustering  
     2. Hierarchical Clustering: an alternative of K-Means  
-    3. PCA  
+    3. Principal Component Analysis (PCA) for clustering
 #### VI. Neural Network architecture using tensorflow  
 #### VI. Models Comparison: Which is the best one ?  
