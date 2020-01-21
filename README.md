@@ -8,8 +8,8 @@
 #### II. Information reduction  
     1. Outliers Detection
     2. Ridge and Lasso Regression 
-    3. VIF  
-    4. PCA  
+    3. Variance Inflation Factor (VIF)  
+    4. Principal Component Analysis (PCA)  
 #### III. Linear regression  
     1. Cost Function  
     2. Gradient computing  
