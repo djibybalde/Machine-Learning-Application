@@ -1,10 +1,10 @@
-# <center><font color='green'> Machine Learning Application
+# <center> <font color='green'> Machine Learning Application
 # <center> Predicting the Market Value of FIFA football players
     
 # <center>![FIFA 2019](http://www.blogproductreview.com/wp-content/uploads/2018/10/download-6.jpeg)
     
     
-The "fifa19" dataset used here is downloaded from [Kaggle](https://www.kaggle.com/karangadiya/fifa19)
+The "fifa19" dataset used here can be downloaded from [Kaggle](https://www.kaggle.com/karangadiya/fifa19)
 
 # Contents  
 #### I. Data exploration  
